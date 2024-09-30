@@ -1,0 +1,15 @@
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\bin\Debug\net8.0\laboratorio32.exe
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\bin\Debug\net8.0\laboratorio32.deps.json
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\bin\Debug\net8.0\laboratorio32.runtimeconfig.json
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\bin\Debug\net8.0\laboratorio32.dll
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\bin\Debug\net8.0\laboratorio32.pdb
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.AssemblyInfo.cs
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.sourcelink.json
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.dll
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\refint\laboratorio32.dll
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.pdb
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\laboratorio32.genruntimeconfig.cache
+C:\Users\artur\source\repos\Laboratorio3\laboratorio32\obj\Debug\net8.0\ref\laboratorio32.dll
