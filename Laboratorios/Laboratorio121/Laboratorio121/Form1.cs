@@ -36,5 +36,10 @@ namespace Laboratorio121
             // Mostrar el resultado en el TextBox3
             txtResultado.Text = distancia.ToString();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
