@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\artur\\source\\repos\\Laboratorio5\\Laboratorio54\\Laboratorio54.csproj",
+      "projectUniqueName": "C:\\Users\\artur\\source\\repos\\ds4\\Laboratorios\\Laboratorio5\\Laboratorio54\\Laboratorio54.csproj",
       "projectName": "Laboratorio54",
-      "projectPath": "C:\\Users\\artur\\source\\repos\\Laboratorio5\\Laboratorio54\\Laboratorio54.csproj",
+      "projectPath": "C:\\Users\\artur\\source\\repos\\ds4\\Laboratorios\\Laboratorio5\\Laboratorio54\\Laboratorio54.csproj",
       "packagesPath": "C:\\Users\\artur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\artur\\source\\repos\\Laboratorio5\\Laboratorio54\\obj\\",
+      "outputPath": "C:\\Users\\artur\\source\\repos\\ds4\\Laboratorios\\Laboratorio5\\Laboratorio54\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
